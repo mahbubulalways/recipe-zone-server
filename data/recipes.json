@@ -1,0 +1,191 @@
+[
+    {
+        "id": "1",
+        "key": "121",
+        "recipeUrl": "https://i.ibb.co/QXFgshq/pizza.webp",
+        "name": " Pizza ",
+        "ingredients": ["2 cup all purpose flour","100 ml tomato ketchup","2 onion","1 teaspoon chilli flakes","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.6"
+
+    },
+    {
+        "id": "5",
+        "key": "921",
+        "recipeUrl": "https://i.ibb.co/QXFgshq/pizza.webp",
+        "name": " Pizza ",
+        "ingredients": ["2 cup all purpose flour","100 ml tomato ketchup","2 onion","1 teaspoon chilli flakes","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.6"
+
+    },
+    {
+        "id": "3",
+        "key": "161",
+        "recipeUrl": "https://i.ibb.co/QXFgshq/pizza.webp",
+        "name": " Pizza ",
+        "ingredients": ["2 cup all purpose flour","100 ml tomato ketchup","2 onion","1 teaspoon chilli flakes","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.6"
+
+    },
+    {
+        "id": "1",
+        "key": "123",
+        "recipeUrl": "https://i.ibb.co/r6SHFb7/chow.jpg",
+        "name": "Vegetable Chowmein",
+        "ingredients": ["200 gms fresh noodles","5 cups water","1 tsp salt","2 tbsp oil","1 tsp chilli sauce" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "4",
+        "key": "133",
+        "recipeUrl": "https://i.ibb.co/r6SHFb7/chow.jpg",
+        "name": "Vegetable Chowmein",
+        "ingredients": ["200 gms fresh noodles","5 cups water","1 tsp salt","2 tbsp oil","1 tsp chilli sauce" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "5",
+        "key": "193",
+        "recipeUrl": "https://i.ibb.co/r6SHFb7/chow.jpg",
+        "name": "Vegetable Chowmein",
+        "ingredients": ["200 gms fresh noodles","5 cups water","1 tsp salt","2 tbsp oil","1 tsp chilli sauce" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "1",
+        "key": "321",
+        "name": "Butter Chicken ",
+        "recipeUrl": "https://i.ibb.co/y6Y2bZB/chicken.jpg",
+        "ingredients": ["Raw Chicken","2 tsp Red Chilli Powder","2 tsp Ginger-Garlic Paste","4 Tomatoes, chopped","1 tsp Ginger" ],
+        "cookingMethod": " In a mixing bowl, put raw chicken pieces and add salt, red chilli powder, ginger garlic paste and lemon juice. Mix well.Refrigerate for about 15-20 minutes.Now add curd to the refrigerated mix. Followed by salt, ginger garlic paste, red chilli powder, garam masala, kasuri methi and mustard oil. Mix well and refrigerate again for an hour.Roast the marinated chicken in an oven for about 30 minutes until it is three-fourth done.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "6",
+        "key": "381",
+        "name": "Butter Chicken ",
+        "recipeUrl": "https://i.ibb.co/y6Y2bZB/chicken.jpg",
+        "ingredients": ["Raw Chicken","2 tsp Red Chilli Powder","2 tsp Ginger-Garlic Paste","4 Tomatoes, chopped","1 tsp Ginger" ],
+        "cookingMethod": " In a mixing bowl, put raw chicken pieces and add salt, red chilli powder, ginger garlic paste and lemon juice. Mix well.Refrigerate for about 15-20 minutes.Now add curd to the refrigerated mix. Followed by salt, ginger garlic paste, red chilli powder, garam masala, kasuri methi and mustard oil. Mix well and refrigerate again for an hour.Roast the marinated chicken in an oven for about 30 minutes until it is three-fourth done.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "4",
+        "key": "721",
+        "name": "Butter Chicken ",
+        "recipeUrl": "https://i.ibb.co/y6Y2bZB/chicken.jpg",
+        "ingredients": ["Raw Chicken","2 tsp Red Chilli Powder","2 tsp Ginger-Garlic Paste","4 Tomatoes, chopped","1 tsp Ginger" ],
+        "cookingMethod": "In a mixing bowl, put raw chicken pieces and add salt, red chilli powder, ginger garlic paste and lemon juice. Mix well.Refrigerate for about 15-20 minutes.Now add curd to the refrigerated mix. Followed by salt, ginger garlic paste, red chilli powder, garam masala, kasuri methi and mustard oil. Mix well and refrigerate again for an hour.Roast the marinated chicken in an oven for about 30 minutes until it is three-fourth done.",
+        "rating": "4.5"
+
+    },
+
+
+
+    {
+        "id": "2",
+        "key": "111",
+        "recipeUrl": "https://i.ibb.co/BT5kbZb/212994-pinakbet-ddmfs-3x4-0376-0dc94566f4ea47c1a8b28e05722d04f2.jpg",
+        "name": "Pinakbet ",
+        "ingredients": ["3 tablespoons olive oil","1 tomato, chopped","1 small bitter melon","salt and pepper to taste","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.1"
+
+    },
+    {
+        "id": "5",
+        "key": "144",
+        "recipeUrl": "https://i.ibb.co/BT5kbZb/212994-pinakbet-ddmfs-3x4-0376-0dc94566f4ea47c1a8b28e05722d04f2.jpg",
+        "name": "Pinakbet ",
+        "ingredients": ["3 tablespoons olive oil","1 tomato, chopped","1 small bitter melon","salt and pepper to taste","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.1"
+
+    },
+    {
+        "id": "3",
+        "key": "371",
+        "recipeUrl": "https://i.ibb.co/BT5kbZb/212994-pinakbet-ddmfs-3x4-0376-0dc94566f4ea47c1a8b28e05722d04f2.jpg",
+        "name": "Pinakbet ",
+        "ingredients": ["3 tablespoons olive oil","1 tomato, chopped","1 small bitter melon","salt and pepper to taste","4 mushroom" ],
+        "cookingMethod": "Take a dough kneading plate and add all-purpose flour to it. Next, add salt and baking powder in it and sieve the flour once. Then, make a well in the centre and add 1 teaspoon of oil to it.Preheat the oven at 180 degree Celsius.Now, is the time to make the pizza base when the dough is ready Now, is the time to make the pizza base when the dough is ready.",
+        "rating": "4.1"
+
+    },
+    {
+        "id": "2",
+        "key": "134",
+        "recipeUrl": "https://i.ibb.co/sJyG60p/Paella-RECIPE-021523-47427.webp",
+        "name": " Paella",
+        "ingredients": ["Seafood","1 tsp salt","2 tbsp oil","1 tsp chilli sauce"," olive oil" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "4",
+        "key": "104",
+        "recipeUrl": "https://i.ibb.co/sJyG60p/Paella-RECIPE-021523-47427.webp",
+        "name": " Paella",
+        "ingredients": ["Seafood","1 tsp salt","2 tbsp oil","1 tsp chilli sauce"," olive oil" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "6",
+        "key": "199",
+        "recipeUrl": "https://i.ibb.co/sJyG60p/Paella-RECIPE-021523-47427.webp",
+        "name": " Paella",
+        "ingredients": ["Seafood","1 tsp salt","2 tbsp oil","1 tsp chilli sauce"," olive oil" ],
+        "cookingMethod": "Take water in a pan, add salt followed by olive oil and bring to boil.Add noodles and cook 'bite like' -- just blanch if fresh and cook longer if dry.Now, heat some oil in a heavy bottom pan and stir- fry garlic, ginger garlic paste and onions over high heat till onions are golden brown.Now add salt, black pepper powder, tomato sauce, chilli sauce, soy sauce and vinegar to veggie mixture. Mix well.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "2",
+        "key": "231",
+        "name": "Waldorf Salad",
+        "recipeUrl": "https://i.ibb.co/841xX3F/waldorf-salad-feat.jpg",
+        "ingredients": ["6 tablespoons mayonnaise","1 cup seedless red grapes","1 cup thinly sliced celery","Lettuce","1 tablespoon lemon juice" ],
+        "cookingMethod": " Rinse your lentils in water for 3 to 4 times. I would recommend using ½ cup tuvar dalAfter rinsing, pour the lentils into a 2-liter pressure cooker and toss in a pinch of turmeric powder and 1.5 cups of water.Pressure cook the lentils for 9 to 10 minutes on medium heat, or until they are thoroughly cooked and completely soft. Once lentils are cooked, mash them with a spoon or wired whisk, then set aside.",
+        "rating": "4.5"
+
+    },
+
+    {
+        "id": "3",
+        "key": "151",
+        "name": "Waldorf Salad",
+        "recipeUrl": "https://i.ibb.co/841xX3F/waldorf-salad-feat.jpg",
+        "ingredients": ["6 tablespoons mayonnaise","1 cup seedless red grapes","1 cup thinly sliced celery","Lettuce","1 tablespoon lemon juice" ],
+        "cookingMethod": " Rinse your lentils in water for 3 to 4 times. I would recommend using ½ cup tuvar dalAfter rinsing, pour the lentils into a 2-liter pressure cooker and toss in a pinch of turmeric powder and 1.5 cups of water.Pressure cook the lentils for 9 to 10 minutes on medium heat, or until they are thoroughly cooked and completely soft. Once lentils are cooked, mash them with a spoon or wired whisk, then set aside.",
+        "rating": "4.5"
+
+    },
+    {
+        "id": "6",
+        "key": "751",
+        "name": "Waldorf Salad",
+        "recipeUrl": "https://i.ibb.co/841xX3F/waldorf-salad-feat.jpg",
+        "ingredients": ["6 tablespoons mayonnaise","1 cup seedless red grapes","1 cup thinly sliced celery","Lettuce","1 tablespoon lemon juice" ],
+        "cookingMethod": " Rinse your lentils in water for 3 to 4 times. I would recommend using ½ cup tuvar dalAfter rinsing, pour the lentils into a 2-liter pressure cooker and toss in a pinch of turmeric powder and 1.5 cups of water.Pressure cook the lentils for 9 to 10 minutes on medium heat, or until they are thoroughly cooked and completely soft. Once lentils are cooked, mash them with a spoon or wired whisk, then set aside.",
+        "rating": "4.5"
+
+    }
+
+
+
+
+
+]

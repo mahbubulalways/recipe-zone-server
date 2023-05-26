@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Gordon Ramsay",
+        "img": "https://i.ibb.co/7vXrSYB/chef1.webp",
+        "experience": " 10 years",
+        "recipes": "10",
+        "likes": "120",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    },
+    {
+        "id": "2",
+        "name": "Jamie Oliver",
+        "img": "https://i.ibb.co/z7h7KbB/chet11.webp",
+        "experience": " 10 years plus",
+        "recipes": "8",
+        "likes": "80",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    },
+    {
+        "id": "3",
+        "name": "Heston Blumenthal",
+        "img": "https://i.ibb.co/3MK5fsC/chef4.jpg",
+        "experience": " 8 years",
+        "recipes": "5",
+        "likes": "110",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    },
+    {
+        "id": "4",
+        "name": "Masaharu Morimoto",
+        "img": "https://i.ibb.co/JvkSL8B/chef6.jpg",
+        "experience": "5 years",
+        "recipes": "12",
+        "likes": "115",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    },
+    {
+        "id": "5",
+        "name": "Auguste Escoffier",
+        "img": "https://i.ibb.co/7vXrSYB/chef1.webp",
+        "experience": "5 years",
+        "recipes": "6",
+        "likes": "120",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    },
+    {
+        "id": "6",
+        "name": "Bobby Flay",
+        "img": "https://i.ibb.co/z7h7KbB/chet11.webp",
+        "experience": "5 years",
+        "recipes": "10",
+        "likes": "130",
+        "bio": "Born in Spain, Chef Manuel Romero was raised in a family that loved cooking traditional and tasty food. When he was a child, his family moved to the United States, and he developed a passion for cooking by watching, helping, and learning alongside his mother. He attended New York Technical College in Brooklyn, New York."
+
+    }
+]
